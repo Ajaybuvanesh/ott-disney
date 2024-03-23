@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100466476118",
+    "project_id": "sauth-f34e0",
+    "storage_bucket": "sauth-f34e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100466476118:android:e617267147a6dbdee027f7",
+        "android_client_info": {
+          "package_name": "com.ajay.ott"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64UF04rAg88blIJAcUTLQ9clFZs_Y6fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
